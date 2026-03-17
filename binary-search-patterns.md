@@ -16,6 +16,7 @@ One half of the array will be sorted. Key is to find the sorted half and then de
 ### Pattern 3 (Most Important) : Binary Search on answer space
 These questions commonly include minimizing a maximum something or maximizing a minimum something
 
+- [aggressive cows](/binary-search/aggressive-cows.js)
 - [koko eating bananas](/binary-search/koko-eating-bananas.js)
 - [capacity to ship packages within d days](/binary-search/capacity-to-ship-packages-within-d-days.js)
 - [minimum number of days to make m bouquets](/binary-search/min-number-of-days-to-make-m-bouquets.js)

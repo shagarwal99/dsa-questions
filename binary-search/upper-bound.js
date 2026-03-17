@@ -7,7 +7,8 @@ class Solution {
        while(low <= high){
             let mid = low + Math.floor((high - low)/2)
 
-            if(arr[mid] > x){
+            if(arr[mid] > x)
+            {
                 ind = Math.min(ind,mid)
                 high = mid - 1
             }
